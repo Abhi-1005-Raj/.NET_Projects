@@ -1,0 +1,33 @@
+D:\.NET Projects\API Github Actions\API Github Actions\bin\Debug\net8.0\appsettings.Development.json
+D:\.NET Projects\API Github Actions\API Github Actions\bin\Debug\net8.0\appsettings.json
+D:\.NET Projects\API Github Actions\API Github Actions\bin\Debug\net8.0\API Github Actions.exe
+D:\.NET Projects\API Github Actions\API Github Actions\bin\Debug\net8.0\API Github Actions.deps.json
+D:\.NET Projects\API Github Actions\API Github Actions\bin\Debug\net8.0\API Github Actions.runtimeconfig.json
+D:\.NET Projects\API Github Actions\API Github Actions\bin\Debug\net8.0\API Github Actions.dll
+D:\.NET Projects\API Github Actions\API Github Actions\bin\Debug\net8.0\API Github Actions.pdb
+D:\.NET Projects\API Github Actions\API Github Actions\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.NET Projects\API Github Actions\API Github Actions\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.NET Projects\API Github Actions\API Github Actions\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.NET Projects\API Github Actions\API Github Actions\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.NET Projects\API Github Actions\API Github Actions\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\API Github Actions.csproj.AssemblyReference.cache
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\API Github Actions.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\API Github Actions.AssemblyInfoInputs.cache
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\API Github Actions.AssemblyInfo.cs
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\API Github Actions.csproj.CoreCompileInputs.cache
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\API Github Actions.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\API Github Actions.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\staticwebassets.build.json
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\staticwebassets.development.json
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\staticwebassets\msbuild.API Github Actions.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\staticwebassets\msbuild.build.API Github Actions.props
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Github Actions.props
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Github Actions.props
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\scopedcss\bundle\API Github Actions.styles.css
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\API Gith.4F0D824B.Up2Date
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\API Github Actions.dll
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\refint\API Github Actions.dll
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\API Github Actions.pdb
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\API Github Actions.genruntimeconfig.cache
+D:\.NET Projects\API Github Actions\API Github Actions\obj\Debug\net8.0\ref\API Github Actions.dll

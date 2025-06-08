@@ -66,5 +66,5 @@ jobs:
         with:
           app-name: 'WebAPIGithubAction'
           slot-name: 'Production'
-          package: .
+          package: './.net-app'
           

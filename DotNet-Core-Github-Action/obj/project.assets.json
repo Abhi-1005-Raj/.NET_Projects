@@ -488,11 +488,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET Projects\\API Github Actions\\API Github Actions\\API Github Actions.csproj",
+      "projectUniqueName": "D:\\.NET Projects\\.NET_Projects\\DotNet-Core-Github-Action\\API Github Actions.csproj",
       "projectName": "API Github Actions",
-      "projectPath": "D:\\.NET Projects\\API Github Actions\\API Github Actions\\API Github Actions.csproj",
+      "projectPath": "D:\\.NET Projects\\.NET_Projects\\DotNet-Core-Github-Action\\API Github Actions.csproj",
       "packagesPath": "C:\\Users\\abhi1\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET Projects\\API Github Actions\\API Github Actions\\obj\\",
+      "outputPath": "D:\\.NET Projects\\.NET_Projects\\DotNet-Core-Github-Action\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -525,7 +525,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -559,7 +560,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

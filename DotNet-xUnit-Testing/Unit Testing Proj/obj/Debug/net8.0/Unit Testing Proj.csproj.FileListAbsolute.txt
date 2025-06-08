@@ -1,0 +1,14 @@
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\bin\Debug\net8.0\Unit Testing Proj.exe
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\bin\Debug\net8.0\Unit Testing Proj.deps.json
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\bin\Debug\net8.0\Unit Testing Proj.runtimeconfig.json
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\bin\Debug\net8.0\Unit Testing Proj.dll
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\bin\Debug\net8.0\Unit Testing Proj.pdb
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\obj\Debug\net8.0\Unit Testing Proj.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\obj\Debug\net8.0\Unit Testing Proj.AssemblyInfoInputs.cache
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\obj\Debug\net8.0\Unit Testing Proj.AssemblyInfo.cs
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\obj\Debug\net8.0\Unit Testing Proj.csproj.CoreCompileInputs.cache
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\obj\Debug\net8.0\Unit Testing Proj.dll
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\obj\Debug\net8.0\refint\Unit Testing Proj.dll
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\obj\Debug\net8.0\Unit Testing Proj.pdb
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\obj\Debug\net8.0\Unit Testing Proj.genruntimeconfig.cache
+D:\.NET Projects\Unit Testing Proj\Unit Testing Proj\obj\Debug\net8.0\ref\Unit Testing Proj.dll
